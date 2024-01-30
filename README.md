@@ -1,2 +1,2 @@
 # CSE211
- All the codes from my algorithms course. 
+ All my codes from algorithms course. 
